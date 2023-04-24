@@ -42,13 +42,16 @@ nav{
 
 nav li{
     display: block;
-    padding: 16px, 16px, 16px, 16px;
+    padding: 1em, 1em, 1em, 1em;
     margin: 8px, auto, 8px, auto;
     color: #141a1a;
     background-color: #e0e5de;
     list-style-type: none;
     font-weight: bold;
     text-align:center;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
 }
 
 nav li 
